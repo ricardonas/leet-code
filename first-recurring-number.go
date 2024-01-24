@@ -1,3 +1,4 @@
+// Time complexity O(n)
 func findFirstRecurringCharacter(input []int) int {
   myMap := make(map[int]int)
 
